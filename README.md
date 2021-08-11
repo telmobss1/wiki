@@ -1,3 +1,2 @@
 # wiki
-Documentação oficial do TigerOS
-Exoerimento
+Este é a documentação oficial do tigerOS
